@@ -1,0 +1,5 @@
+﻿  test.c
+c:\users\admin\documents\visual studio 2013\projects\每日代码\11_9\11_9\test.c(18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\documents\visual studio 2013\projects\每日代码\11_9\11_9\test.c(19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\documents\visual studio 2013\projects\每日代码\11_9\11_9\test.c(15): warning C4715: “prime”: 不是所有的控件路径都返回值
+  11_9.vcxproj -> C:\Users\admin\Documents\Visual Studio 2013\Projects\每日代码\11_9\Debug\11_9.exe
